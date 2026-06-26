@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=220&section=header&text=Conecta%20Tech&fontSize=70&fontAlignY=35&desc=Conectando%20Ideias,%20Frontend%20e%20Inteligência%20Artificial&descAlignY=55&fontColor=00FFFF" alt="Banner Conecta Tech" />
 </div>
 
-<h1 align="center">🌌 [Conecta Tech](https://rpteciadev.github.io/conecta_tech/)</h1>
+<h1 align="center">🌌 Conecta Tech</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
   <img src="https://img.shields.io/badge/Licença-MIT-00FF00?style=for-the-badge" alt="Licença" />
 </p>
-
+<p> [SIte](https://rpteciadev.github.io/conecta_tech/)
 <p align="center">
   <em>Um ecossistema digital desenvolvido para transcender o convencional, unindo interfaces web dinâmicas com o poder da Inteligência Artificial.</em>
 </p>
