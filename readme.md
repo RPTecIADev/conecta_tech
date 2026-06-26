@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
   <img src="https://img.shields.io/badge/Licença-MIT-00FF00?style=for-the-badge" alt="Licença" />
 </p>
-<p> [SIte](https://rpteciadev.github.io/conecta_tech/)
+<p> Site ===> https://rpteciadev.github.io/conecta_tech/
 <p align="center">
   <em>Um ecossistema digital desenvolvido para transcender o convencional, unindo interfaces web dinâmicas com o poder da Inteligência Artificial.</em>
 </p>
