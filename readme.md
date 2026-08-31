@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Sugestão: Utilize um banner de fundo tecnológico (circuitos, linhas de código ou hologramas), garantindo que não haja figuras humanas na composição para focar estritamente na tecnologia. -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=220&section=header&text=Conecta%20Tech&fontSize=70&fontAlignY=35&desc=Conectando%20Ideias,%20Frontend%20e%20Inteligência%20Artificial&descAlignY=55&fontColor=00FFFF" alt="Banner Conecta Tech" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=220&section=header&text=Conecta%20Tech&fontSize=70&fontAlignY=35&desc=Conectando%20Ideias,%20Frontend%20e%20Inteligência%20Artificial&descAlignY=55&fontColor=00FFFF" alt="Banner Conecta Tech" />
 </div>
 
 <h1 align="center">🌌 Conecta Tech</h1>
